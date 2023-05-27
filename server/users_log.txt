@@ -1,0 +1,46 @@
+user   pass  mode   file
+
+david, 1234, 1 
+david, 1234, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 1 
+meir, 1122, 0 
+meir, 1122, 0 
+meir, 1122, 0 
+meir, 1122, 1 file.txt
+meir, 1122, 0 
+meir, 1122, 1 file1.txt
+meir, 1122, 1 file1.txt
+meir, 1122, 0 
+meir, 1122, 0 
+meir, 1122, 1 file1.txt
+meir, 1122, 1 file1.txt
+meir, 1122, 1 test4.txt
+meir, 1122, 1 test4.txt
+meir, 1122, 0 
+meir, 1122, 0 
+meir, 1122, 0 
+meir, 1122, 2 file1.txt
+meir, 1122, 2 test1.txt
+meir, 1122, 2 test2.txt
+meir, 1122, 2 test2.txt
+meir, 1122, 2 test2.txtr
+meir, 1122, 2 test2.txt
+meir, 1122, 0 
+meir, 1122, 2 test2.txt
+meir, 1122, 2 test2.txt
+meir, 1122, 2 test2.tst
+meir, 1122, 0 
+meir, 1122, 1 file1.txt
+
+meir, 1122, 0 
+meir, 1122, 0 
+meir, 1122, 0 
